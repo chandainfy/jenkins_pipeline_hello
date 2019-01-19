@@ -16,3 +16,9 @@ node {
         echo "deploying"
     }
 }
+node {
+stage('inform Dev')
+    {
+        echo"informing..."
+    }
+}
