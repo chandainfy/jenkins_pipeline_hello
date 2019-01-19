@@ -20,6 +20,7 @@ node {
 node {
 stage('inform Dev')
     {
-        echo"informing..."
+        echo "informing..."
     }
+}
 }
